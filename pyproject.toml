@@ -1,0 +1,13 @@
+[project]
+name = "mcp-langgraph-bridge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.13.0",
+    "fastmcp>=2.12.4",
+    "httpx>=0.28.1",
+    "langgraph-sdk>=0.2.9",
+    "mcp[cli]>=1.17.0",
+]
