@@ -5,3 +5,5 @@
 На сервере идет кастомный стриминг от LangGraph [ссылка](https://python.langchain.com/docs/concepts/streaming/)
 
 Один Tool возвраoает результат Research
+
+uv run main.py 
